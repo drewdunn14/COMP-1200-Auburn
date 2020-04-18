@@ -1,0 +1,25 @@
+Directions for set-up:
+
+The main file is Exam02StudyGuide, since Exams are comprehensive there is a good bit of stuff from exam01/02 on there.
+With that being said, there are a few things to do to make sure everything runs correctly. 
+
+If it automatically adds a number within brackets to the filename like it would by opening a file from email,
+it is usually automatically added to an attachments folder, find it in this folder and remove the brackets
+from each filename (rename) to be able to save it under a valid name and in the preferred directory.
+
+File Directory – MainStudyGuide.m contains two simple user-defined functions,
+which are contained in the files cubedExample.m & wilks.m
+make sure these three files are saved in the same folder together or the main file will not be able to access the files
+that the functions are held in.
+
+Within the User-Defined Functions Functions Example Folder:
+There is a worked and explained example of one of the user defined function from canvas,
+quad_eq_funct.m is a parent file to the following three files: getCoefs.m & compRoots.m & printResults.m 
+Make sure these four files are saved in the same folder so that the parent file will be able to access the functions.
+
+Exam02StudyGuide.m – everything is suppressed as default or commented out to keep the command window clean.
+To see the results to conditionals, graphs, print statements, variables, etc. just unsuppress (remove the ;)
+or remove the comment from whatever it is you would like to see  appear in the command window.
+
+Other than that let me know if something isn’t working or if you guys find a mistake. Auburn email is available on COMP-1200 home page
+as well as header of MainStudyGuide.m 
